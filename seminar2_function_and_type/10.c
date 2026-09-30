@@ -29,7 +29,7 @@ int main()
     {
         for (int j = 0; j < n; j++)
         {
-            printf("%.2f ", A[i][j]);
+            printf("%.0f ", A[i][j]);
         }
         printf("\n");
     }
